@@ -11,20 +11,20 @@ Designed as a scalable, multi-community platform, it supports flexible role mana
 
 | Module Name                     | Description                                              | Link                                               |
 |--------------------------------|----------------------------------------------------------|----------------------------------------------------|
-| 🪖 Unit Structure Management | Organize the community into structured units, squads, and teams. | [Unit Management](docs/Modules/unit-management.md) |
-| 🎓 User Training Management | Track individual and unit-level training progress, requirements, and certifications.| [Training Management](docs/Modules/training-management.md) |
-| ⚖️ Member Disciplinary Tracking | Log and manage infractions, warnings, and actions taken for each user. | [Disciplinary Tracking](docs/Modules/disciplinary-tracking.md) |
-| 📝 Leave of Absence (LOA) Requests | Allow members to submit and track leave requests with auto-updated statuses. | [LOA Requests](docs/Modules/loa-requests.md) |
-| 📝 Recruitment & Application Tracker | Manage candidate applications, interviews, and acceptance workflows. | [Recruitment Tracker](docs/Modules/recruitment-application-tracker.md) |
-| 📅 Event Management & Attendance Tracking | Create and manage operations, trainings, or community events. | [Event Management](docs/Modules/event-management.md) |
-| 📋 Mission Briefing & Planning Center | Organize operation briefings, objectives, and role assignments. | [Mission Planning Center](docs/Modules/mission-briefing-planning-center.md) |
-| 🖼️ Media & AAR (After Action Report) Gallery | Upload and archive screenshots, videos, and after-action reports. | [Media & ARR](docs/Modules/media-aar-gallery.md) |
-| 🧠 Intel & Threat Board | Display known enemy factions, patterns, and mission-specific intelligence. | [Intel Threat Board](docs/Modules/intel-threat-board.md) |
-| 🛠️ Operation Builder & Mission Library | Create, version, and reuse mission templates for future ops. | [Operation Builder](docs/Modules/operation-builder-mission-library.md) |
-| 🧩 Milsim Operation Modlist Management | Maintain per-mission modsets and sync with community via Arma launcher. | [Modlist Management](docs/Modules/modlist-management.md) |
-| 🖥️ Server Management Portal | Admin interface to start, stop, and monitor Arma 3 servers. | [Server Management](docs/Modules/server-management.md) |
-| 📚 Resources Page | Community-maintained library of links, SOPs, guides, tools, etc. | [Resource Page](docs/Modules/resource-page.md) |
-| 🌐 Public Community Hub | Public-facing recruitment site and information center. | [Community HUB](docs/Modules/public-community-hub.md) |
+| 🪖 Unit Structure Management | Organize the community into structured units, squads, and teams. | [Unit Management](Modules/unit-management.md) |
+| 🎓 User Training Management | Track individual and unit-level training progress, requirements, and certifications.| [Training Management](Modules/training-management.md) |
+| ⚖️ Member Disciplinary Tracking | Log and manage infractions, warnings, and actions taken for each user. | [Disciplinary Tracking](Modules/disciplinary-tracking.md) |
+| 📝 Leave of Absence (LOA) Requests | Allow members to submit and track leave requests with auto-updated statuses. | [LOA Requests](Modules/loa-requests.md) |
+| 📝 Recruitment & Application Tracker | Manage candidate applications, interviews, and acceptance workflows. | [Recruitment Tracker](Modules/recruitment-application-tracker.md) |
+| 📅 Event Management & Attendance Tracking | Create and manage operations, trainings, or community events. | [Event Management](Modules/event-management.md) |
+| 📋 Mission Briefing & Planning Center | Organize operation briefings, objectives, and role assignments. | [Mission Planning Center](Modules/mission-briefing-planning-center.md) |
+| 🖼️ Media & AAR (After Action Report) Gallery | Upload and archive screenshots, videos, and after-action reports. | [Media & ARR](Modules/media-aar-gallery.md) |
+| 🧠 Intel & Threat Board | Display known enemy factions, patterns, and mission-specific intelligence. | [Intel Threat Board](Modules/intel-threat-board.md) |
+| 🛠️ Operation Builder & Mission Library | Create, version, and reuse mission templates for future ops. | [Operation Builder](Modules/operation-builder-mission-library.md) |
+| 🧩 Milsim Operation Modlist Management | Maintain per-mission modsets and sync with community via Arma launcher. | [Modlist Management](Modules/modlist-management.md) |
+| 🖥️ Server Management Portal | Admin interface to start, stop, and monitor Arma 3 servers. | [Server Management](Modules/server-management.md) |
+| 📚 Resources Page | Community-maintained library of links, SOPs, guides, tools, etc. | [Resource Page](Modules/resource-page.md) |
+| 🌐 Public Community Hub | Public-facing recruitment site and information center. | [Community HUB](Modules/public-community-hub.md) |
 
 ## ➕ Addon Feature Modules
 
