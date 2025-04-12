@@ -30,7 +30,7 @@ Designed as a scalable, multi-community platform, it supports flexible role mana
 
 | Module Name                     | Description                                              | Link                                               |
 |--------------------------------|----------------------------------------------------------|----------------------------------------------------|
-| 🕒 Coming Soon! | We will be working to create more modules that would be useful to milsim communitys. | [Coming Soon]() |
+| 🕒 Coming Soon! | We will be working to create more modules that would be useful to milsim communitys. | Coming Soon |
 
 ---
 
