@@ -1,6 +1,9 @@
-# 🧭 Milsim Portal – Master README Index
+# 🎖️ Milsim Portal – Application Overview
 
-Welcome to the central specification index for the Milsim Management Portal. This portal is designed to manage full-spectrum Milsim operations across multiple Discord communities with robust feature modules and Discord bot integration.
+## 📌 Summary
+The Milsim Portal is a full-featured, modular web platform built for Arma 3 Milsim communities. It provides a centralized environment for managing operations, personnel, training, events, and servers — all deeply integrated with Discord.
+
+Designed as a scalable, multi-community platform, it supports flexible role management, per-community feature toggles, and extensible modules.
 
 ---
 
@@ -8,36 +11,31 @@ Welcome to the central specification index for the Milsim Management Portal. Thi
 
 | Module Name                     | Description                                              | Link                                               |
 |--------------------------------|----------------------------------------------------------|----------------------------------------------------|
-| 📝 Recruitment Tracker          | Application submission, review & onboarding tracker     | [Recruitment Module](recruitment-application-tracker.md) |
-| 📋 Mission Briefing Center      | Event-linked briefings, OPORD templates, task assignments| [Briefing Module](mission-briefing-planning-center.md) |
-| 🛠️ Operation Builder & Library | Create, store, and reuse missions across deployments     | [Operation Library](operation-builder-mission-library.md) |
-| 🧠 Intel & Threat Board         | In-universe intelligence and threat actor profiles       | [Intel Module](intel-threat-board.md)             |
-| 🌐 Public Community Hub         | Public-facing homepage for recruitment and modlists      | [Public Hub](public-community-hub.md)             |
-| ⚙️ Feature Module Toggle System| Admins can enable/disable specific features per community| [Feature Toggles](feature-module-toggles.md)      |
+| 🪖 Unit Structure Management | Organize the community into structured units, squads, and teams. | [Unit Management](docs/Modules/unit-management.md) |
+| 🎓 User Training Management | Track individual and unit-level training progress, requirements, and certifications.| [Training Management](docs/Modules/training-management.md) |
+| ⚖️ Member Disciplinary Tracking | Log and manage infractions, warnings, and actions taken for each user. | [Disciplinary Tracking](docs/Modules/disciplinary-tracking.md) |
+| 📝 Leave of Absence (LOA) Requests | Allow members to submit and track leave requests with auto-updated statuses. | [LOA Requests](docs/Modules/loa-requests.md) |
+| 📝 Recruitment & Application Tracker | Manage candidate applications, interviews, and acceptance workflows. | [Recruitment Tracker](docs/Modules/recruitment-application-tracker.md) |
+| 📅 Event Management & Attendance Tracking | Create and manage operations, trainings, or community events. | [Event Management](docs/Modules/event-management.md) |
+| 📋 Mission Briefing & Planning Center | Organize operation briefings, objectives, and role assignments. | [Mission Planning Center](docs/Modules/mission-briefing-planning-center.md) |
+| 🖼️ Media & AAR (After Action Report) Gallery | Upload and archive screenshots, videos, and after-action reports. | [Media & ARR](docs/Modules/media-aar-gallery.md) |
+| 🧠 Intel & Threat Board | Display known enemy factions, patterns, and mission-specific intelligence. | [Intel Threat Board](docs/Modules/intel-threat-board.md) |
+| 🛠️ Operation Builder & Mission Library | Create, version, and reuse mission templates for future ops. | [Operation Builder](docs/Modules/operation-builder-mission-library.md) |
+| 🧩 Milsim Operation Modlist Management | Maintain per-mission modsets and sync with community via Arma launcher. | [Modlist Management](docs/Modules/modlist-management.md) |
+| 🖥️ Server Management Portal | Admin interface to start, stop, and monitor Arma 3 servers. | [Server Management](docs/Modules/server-management.md) |
+| 📚 Resources Page | Community-maintained library of links, SOPs, guides, tools, etc. | [Resource Page](docs/Modules/resource-page.md) |
+| 🌐 Public Community Hub | Public-facing recruitment site and information center. | [Community HUB](docs/Modules/public-community-hub.md) |
 
-| 🚀 Future Enhancements          | Roadmap of advanced functionality                        | [Future Enhancements](future-enhancements-planning.md) |
+## ➕ Addon Feature Modules
+
+| Module Name                     | Description                                              | Link                                               |
+|--------------------------------|----------------------------------------------------------|----------------------------------------------------|
+| 🕒 Coming Soon! | We will be working to create more modules that would be useful to milsim communitys. | [Coming Soon]() |
 
 ---
 
-## 📐 Design Goals
-
-- Modular by feature set
-- Multi-tenant capable
-- Fully Discord-integrated
-- User-role aware & secure
-- Configurable for varied unit types
-- Designed for extensibility and automation
-
----
-
-## 📌 Getting Started (Coming Soon)
-
-1. Clone the project
-2. Setup environment (.env)
-3. Start MongoDB + backend
-4. Run frontend and bot
-
-Documentation for setup and deployment coming in `/docs/setup`.
+## 🚀 Project Vision
+Empower Milsim communities with professional-grade infrastructure that simplifies admin workflows, improves member accountability, and strengthens overall community cohesion.
 
 ---
 
