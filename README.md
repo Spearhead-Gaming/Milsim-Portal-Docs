@@ -14,7 +14,7 @@ Welcome to the central specification index for the Milsim Management Portal. Thi
 | 🧠 Intel & Threat Board         | In-universe intelligence and threat actor profiles       | [Intel Module](intel-threat-board.md)             |
 | 🌐 Public Community Hub         | Public-facing homepage for recruitment and modlists      | [Public Hub](public-community-hub.md)             |
 | ⚙️ Feature Module Toggle System| Admins can enable/disable specific features per community| [Feature Toggles](feature-module-toggles.md)      |
-| 🏗️ Multi-Community & Discord    | Support multiple Discord servers and tenant isolation    | [Multi-Community Setup](multi-community-discord-integration.md) |
+
 | 🚀 Future Enhancements          | Roadmap of advanced functionality                        | [Future Enhancements](future-enhancements-planning.md) |
 
 ---
